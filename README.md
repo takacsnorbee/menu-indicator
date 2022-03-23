@@ -1,3 +1,3 @@
 # menu-indicator
 
-Live version: 
+Live version: https://takacsnorbee.github.io/menu-indicator/
